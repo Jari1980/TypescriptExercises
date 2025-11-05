@@ -20,6 +20,13 @@ body {
   min-width: 320px;
 }
 
+input {
+  background-color: #4539b8;
+  padding: 1em 1em;
+  font-size: 1em;
+  width: 50%;
+}
+
 h1 {
 
 }
